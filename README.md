@@ -8,7 +8,7 @@ Passionate about building scalable applications and intelligent automation, I sp
 ## 🔧 What I’m Building  
 
 - 📱 **E-Commerce Application** – A fast, modern shopping experience powered by Flutter & Firebase.  
-- 🤖 **Autonomous Coffee Dispenser** – Combining IoT, AI, and robotics to redefine coffee dispensing.  
+- 🤖 **Autonomous Fire Extinguishing Robot** – Combining IoT, AI, and robotics to help fire hazards!  
 - 📝 **Conference Paper** – Exploring cutting-edge innovations in AI-driven automation.  
 
 ## 🌱 What I'm Learning  
