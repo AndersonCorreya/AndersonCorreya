@@ -33,7 +33,7 @@ Passionate about building scalable applications and intelligent automation, I sp
 
 ## 📫 Connect with Me  
 
-- **Portfolio:** [andersoncorreya.github.io/Portfolio](https://andersoncorreya.github.io/Portfolio)  
+- **Portfolio:** [andersoncorreya](https://andersoncorreya.netlify.app/)  
 - **LinkedIn:** [Anderson Correya](https://www.linkedin.com/in/andersoncorreya14/)  
 - **Email:** bervincorreya@gmail.com  
 
