@@ -2,7 +2,7 @@
 <h3 align="center">🚀 I build apps, backend for applications</h3>
 
 <p align="center">
-I genuinely love building stuff, be it applications, I genuinely love making great digital experiences. I wanna learn so much, we're here for a short time. Let's make it worth it. <3
+I genuinely love building stuff, be it applications or scripts, I love making good digital experiences. I wanna learn so much, we're here for a short time. Let's make it worth it. <3
 </p>
 
 ## 🔧 What I'm tryna build right now 
