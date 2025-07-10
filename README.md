@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Anderson Correya</h1>
-<h3 align="center">🚀 Mobile & Backend Developer | Developer at Aibuzz Technoventures</h3>
+<h1 align="center">Hi all, I'm Anderson</h1>
+<h3 align="center">🚀 I build apps, backend for applications</h3>
 
 <p align="center">
-Passionate about building scalable applications and intelligent automation, I specialize in Flutter, Firebase, Kotlin, and Node.js. Whether it's crafting seamless mobile experiences or integrating AI-driven robotics, I love pushing the boundaries of technology.
+I genuinely love building stuff, be it applications, I genuinely love making great digital experiences. I wanna learn so much, we're here for a short time. Let's make it worth it. <3
 </p>
 
-## 🔧 What I’m Building  
+## 🔧 What I'm tryna build right now 
 
-- 📱 **E-Commerce Application** – A fast, modern shopping experience powered by Flutter & Firebase.  
-- 🤖 **Autonomous Fire Extinguishing Robot** – Combining IoT, AI, and robotics to help fire hazards!  
-- 📝 **Conference Paper** – Exploring cutting-edge innovations in AI-driven automation.  
+-  **Morpheus** – A note-taking app, minimalistic approach, maximalist features.
+-  **MyFlicks** - A movie application, smooth ui, great movies.  
+-  **FriendCircle** - A messaging application, message your non existent friends :D 
 
 ## 🌱 What I'm Learning  
 
-- 🚀 Advanced Flutter & Firebase techniques.  
-- 🌍 React & Express.js for full-stack development.  
+- 🚀 Working with flutter, building applications, learning backend.
+- 🌍 React & Express.js becuase, fomo.
 - 🤖 ESP32 & AI-powered robotics for automation.  
 
 ## 💡 Skills & Tech Stack  
@@ -26,7 +26,6 @@ Passionate about building scalable applications and intelligent automation, I sp
 
 ### Databases & Cloud  
 - Firebase, MongoDB, PostgreSQL, MySQL  
-- AWS (Certified)  
 
 ### Mobile & IoT Development  
 - Flutter, Kotlin (Android), ESP32, Arduino  
@@ -38,4 +37,4 @@ Passionate about building scalable applications and intelligent automation, I sp
 - **Email:** bervincorreya@gmail.com  
 
 ## ⚡ Fun fact  
-🎶 My music taste is flawless.  
+- Love music, love the idea of reading books (2025 goals in the drain already) but i try.   
