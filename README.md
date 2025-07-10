@@ -14,7 +14,7 @@ I genuinely love building stuff, be it applications, I genuinely love making gre
 ## 🌱 What I'm Learning  
 
 - 🚀 Working with flutter, building applications, learning backend.
-- 🌍 React & Express.js becuase, fomo.
+- 🌍 React & Express.js because, fomo.
 - 🤖 ESP32 & AI-powered robotics for automation.  
 
 ## 💡 Skills & Tech Stack  
