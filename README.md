@@ -12,6 +12,7 @@ Hi, I'm Anderson, currently a Software Engineer focused on mobile applications.
 </p>
 
 Tech Stack
+
 Mobile Frameworks: Flutter, Jetpack Compose
 
 Languages: Java, Dart, Python
