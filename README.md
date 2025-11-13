@@ -1,4 +1,4 @@
-Hi, I'm Anderson, currently a Software Engineer working mainly on mobile applications.
+Hi, I'm Anderson, currently a Software Engineer focused on mobile applications.
 
 <p align="center">
   <img 
@@ -10,3 +10,14 @@ Hi, I'm Anderson, currently a Software Engineer working mainly on mobile applica
     height="165px"
   />
 </p>
+
+tech stack
+mobile frameworks: flutter, jetpack compose
+languages: java, dart, python
+
+in my free time, i love watching movies. you can catch me here [<Letterboxd>](https://letterboxd.com/ItzAnderson/).
+and i try to read books. (hit me up with reccomendations)
+
+you can connect with me here
+[<Linkedin>](https://www.linkedin.com/in/andersoncorreya14/) [mail](mailto:bervincorreya@gmail.com)
+
