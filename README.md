@@ -19,5 +19,6 @@ in my free time, i love watching movies. you can catch me here [<Letterboxd>](ht
 and i try to read books. (hit me up with reccomendations)
 
 you can connect with me here
-[Linkedin](https://www.linkedin.com/in/andersoncorreya14/) [mail](mailto:bervincorreya@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/andersoncorreya14/) [Mail](mailto:bervincorreya@gmail.com)
 
