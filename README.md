@@ -13,6 +13,7 @@ Hi, I'm Anderson, currently a Software Engineer focused on mobile applications.
 
 tech stack
 mobile frameworks: flutter, jetpack compose
+
 languages: java, dart, python
 
 in my free time, i love watching movies. you can catch me here [Letterboxd](https://letterboxd.com/ItzAnderson/).
