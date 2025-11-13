@@ -11,15 +11,15 @@ Hi, I'm Anderson, currently a Software Engineer focused on mobile applications.
   />
 </p>
 
-tech stack
-mobile frameworks: flutter, jetpack compose
+Tech Stack
+Mobile Frameworks: Flutter, Jetpack Compose
 
-languages: java, dart, python
+Languages: Java, Dart, Python
 
-in my free time, i love watching movies. you can catch me here [Letterboxd](https://letterboxd.com/ItzAnderson/).
-and i try to read books. (hit me up with reccomendations)
+In my free time, I love watching movies. You can catch me here [Letterboxd](https://letterboxd.com/ItzAnderson/).
+and I try to read books. (hit me up with reccomendations)
 
-you can connect with me here
+You can connect with me here
 
 [Linkedin](https://www.linkedin.com/in/andersoncorreya14/) [Mail](mailto:bervincorreya@gmail.com)
 
