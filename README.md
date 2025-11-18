@@ -18,7 +18,7 @@ Mobile Frameworks: Flutter, Jetpack Compose
 Languages: Java, Dart, Python
 
 In my free time, I love watching movies. You can catch me here [Letterboxd](https://letterboxd.com/ItzAnderson/).
-and I try to read books. (hit me up with reccomendations)
+and I try to read books. (hit me up with recommendations)
 
 You can connect with me here
 
